@@ -17,11 +17,11 @@ const StyledHeader = styled.header`
   padding: 0px 50px;
   width: 100%;
   height: var(--nav-height);
-  background-color: rgba(10, 25, 47, 0.85);
+  background-color: rgba(30, 36, 40, 0.85);
   filter: none !important;
   pointer-events: auto !important;
   user-select: auto !important;
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(5px);
   transition: var(--transition);
 
   @media (max-width: 1080px) {
@@ -38,7 +38,7 @@ const StyledHeader = styled.header`
       css`
         height: var(--nav-scroll-height);
         transform: translateY(0px);
-        background-color: rgba(10, 25, 47, 0.85);
+        background-color: rgba(30, 36, 40, 0.75);
         box-shadow: 0 10px 30px -10px var(--navy-shadow);
       `};
 
