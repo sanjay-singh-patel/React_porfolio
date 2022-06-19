@@ -60,7 +60,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Sanjay Singh Patel.</h2>;
-  const three = <h3>I build things for the web.</h3>;
+  const three = <h3>Software developer</h3>;
   const four = (
     <>
       <p>
@@ -70,11 +70,7 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="mailto:sanjupatel11112000@gmail.com"
-      target="_blank"
-      rel="noreferrer">
+    <a className="email-link" href="mailto:sanj.singh.p@gmail.com" target="_blank" rel="noreferrer">
       Get in Touch
     </a>
   );
