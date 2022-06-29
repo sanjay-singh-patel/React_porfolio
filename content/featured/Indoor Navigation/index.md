@@ -1,9 +1,9 @@
 ---
 date: '1'
 title: 'Indoor Navigation'
-cover: './'
-github: ''
-external: ''
+cover: './ins.png'
+github: '#'
+external: '#'
 tech:
   - Open CV
   - Python
