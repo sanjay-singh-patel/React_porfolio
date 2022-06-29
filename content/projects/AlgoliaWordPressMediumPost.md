@@ -1,14 +1,14 @@
 ---
 date: '2020-03-27'
-title: ''
+title: 'Newsletter application'
 github: ''
 external: ''
 tech:
-  -
-  -
-  -
+  - Django
+  - sqlite
+  - Python
 company: ''
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+A newsletter application to send emails to subscribers.
